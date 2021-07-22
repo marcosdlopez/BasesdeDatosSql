@@ -1,0 +1,1 @@
+UPDATE Personas SET Fecha_Ingreso = '07/14/2019' WHERE IdPersona = 1;
